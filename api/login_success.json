@@ -1,5 +1,11 @@
 {
     "code": 200,
     "message": "OK",
-    "token": "12398a9sdadhj12388asdkadsjklpl"
+    "token": "12398a9sdadhj12388asdkadsjklpl",
+    "data": {
+        "id": 24,
+        "email": "testemail@test.com",
+        "nick": "tester",
+        "first_login": true
+    }
 }
